@@ -1,4 +1,4 @@
-# 
+# Mis à jour FraudShield script. Téléchargez et installez avec faible utilisation des ressources et accélération GPU — rapide, sécurisé et facile à utiliser.
 
 
 
